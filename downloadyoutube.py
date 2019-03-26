@@ -2,10 +2,6 @@
 
 import pytube
 import moviepy.editor as mp
-import time
-from tqdm import tqdm
-import sys
-
 
 def backline():
     print('\r', end='')
